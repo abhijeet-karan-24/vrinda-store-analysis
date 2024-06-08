@@ -7,11 +7,17 @@ vrinda can understand their customers to grow their sales in 2024.
 
 ## sample questions
 compare the sales and orders in single chart?
+
 which month got the higest sales and orders?
+
 who purchased man or women in 2023?
+
 what are the differnt order status in 2023?
+
 list top 10 states contributing the sales?
+
 Relation b/w age and gender based number of orders
+
 which channel is contributing to maximum sales?
 
 ###  sample insights
